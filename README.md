@@ -44,5 +44,5 @@ Created a deep learning-based image generation system using Stable Diffusion and
 📄 [Download Resume](https://github.com/ShafikhaYasmeen/Portfolio/blob/main/SHAFIKHA_YASMEEN_RESUME.pdf)
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/shafikhayasmeen
+- LinkedIn: https://www.linkedin.com/in/mohammad-shafikha-yasmeen
 - GitHub: https://github.com/ShafikhaYasmeen
