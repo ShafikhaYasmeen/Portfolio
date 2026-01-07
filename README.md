@@ -41,7 +41,7 @@ Created a deep learning-based image generation system using Stable Diffusion and
 - IR 4.0 Foundation Course – TechSaksham (Microsoft & SAP Edunet Foundation)
 
 ## Resume
-📄 [Download Resume](resume.pdf)
+📄 [Download Resume]([resume.pdf](https://github.com/ShafikhaYasmeen/Portfolio/blob/main/SHAFIKHA_YASMEEN_RESUME.pdf))
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/shafikhayasmeen
